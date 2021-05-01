@@ -15,6 +15,5 @@ Algorithms Made Easy May 10 day 30 problems Challenge
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
  
  <h3>Day 1: </h3>
- [Question1](http://github.com)
 
-[GitHub](http://github.com)
+[Question1](http://github.com)
