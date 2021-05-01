@@ -16,4 +16,4 @@ Algorithms Made Easy May 10 day 30 problems Challenge
  
  <h3>Day 1: </h3>
 
-[Question1](http://github.com)
+[Question1](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/find-first-and-last-position-of-element-in-sorted-array)
