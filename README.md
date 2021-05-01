@@ -15,8 +15,11 @@ Algorithms Made Easy May 10 day 30 problems Challenge
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
  
  <h3>Day 1: </h3>
-<li>
-[Question1](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/find-first-and-last-position-of-element-in-sorted-array)
-[Question2 : Powerful Integers](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/powerful-integers)
-[Question1](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/find-first-and-last-position-of-element-in-sorted-array)
- </li>
+
+1. [Question1 : Find the first and lats position of element in sorted array](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/find-first-and-last-position-of-element-in-sorted-array)
+ Time Complexity | Space Complexity
+------------ | -------------
+Content from cell 1 | Content from cell 2
+2. [Question2 : Powerful Integers](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/powerful-integers)
+3. [Question1](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/find-first-and-last-position-of-element-in-sorted-array)
+ 
