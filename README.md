@@ -16,16 +16,20 @@ Algorithms Made Easy May 10 day 30 problems Challenge
  
  <h3>Day 1: </h3>
 
-1. [Question1 : Find the first and lats position of element in sorted array](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/find-first-and-last-position-of-element-in-sorted-array)<br/>
+1. [Question 1 : Find the first and lats position of element in sorted array](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/find-first-and-last-position-of-element-in-sorted-array)<br/>
 
  | Time Complexity  | Space Complexity |
 | ------------- | ------------- |
 | O(lon n)  | O(1)  |
 
-2. [Question2 : Powerful Integers](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/powerful-integers)<br/>
+2. [Question 2 : Powerful Integers](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/powerful-integers)<br/>
 
  | Time Complexity  | Space Complexity |
 | ------------- | ------------- |
 | O(N * M) | O(N * M) where N=logx(bound) and M=logy (bound)  |
-3. [Question1](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/find-first-and-last-position-of-element-in-sorted-array)
+3. [Question 3: Brick Wall](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/brick-wall)<br/>
+
+ | Time Complexity  | Space Complexity |
+| ------------- | ------------- |
+| O(No.of Bricks) | O(Width of wall)  |
  
