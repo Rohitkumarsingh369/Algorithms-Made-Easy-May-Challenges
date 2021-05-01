@@ -16,7 +16,7 @@ Algorithms Made Easy May 10 day 30 problems Challenge
  
  <h3>Day 1: </h3>
 
-1. [Question 1 : Find the first and lats position of element in sorted array](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/find-first-and-last-position-of-element-in-sorted-array)<br/>
+1. [Question 1 : Find the first and last position of element in sorted array](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/find-first-and-last-position-of-element-in-sorted-array)<br/>
 
  | Time Complexity  | Space Complexity |
 | ------------- | ------------- |
