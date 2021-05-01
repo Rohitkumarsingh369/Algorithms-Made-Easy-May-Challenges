@@ -15,6 +15,6 @@ Algorithms Made Easy May 10 day 30 problems Challenge
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
  
  <h3>Day 1: </h3>
- <h4>Question 1: [Find first and last position of element in sorted array](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/find-first-and-last-position-of-element-in-sorted-array)</h4>
+ <h4>Question 1: [Find first and last position of element in sorted array](#https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/find-first-and-last-position-of-element-in-sorted-array)</h4>
 
 
