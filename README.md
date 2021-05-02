@@ -33,3 +33,19 @@ Algorithms Made Easy May 10 day 30 problems Challenge
 | ------------- | ------------- |
 | O(No.of Bricks) | O(Width of wall)  |
  
+<h3>Day 2: </h3>
+
+1. [Question 1 : Prefix and suffix search](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/prefix-and-suffix-search)<br/>
+
+
+2. [Question 2 : Spiral Matrix](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/spiral-matrix)<br/>
+
+ | Time Complexity  | Space Complexity |
+| ------------- | ------------- |
+| O(row * col) | O(row * col)  |
+3. [Question 3: House Robber](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/house-robber)<br/>
+
+ | Time Complexity  | Space Complexity |
+| ------------- | ------------- |
+| O(n) | O(n)  |
+ 
