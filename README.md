@@ -49,3 +49,21 @@ Algorithms Made Easy May 10 day 30 problems Challenge
 | ------------- | ------------- |
 | O(n) | O(n)  |
  
+ <h3>Day 3: </h3>
+
+1. [Question 1 : Search in rotated sorted array ii](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/search-in-rotated-sorted-array-ii)<br/>
+
+ | Time Complexity  | Space Complexity |
+| ------------- | ------------- |
+| O(log n)  | O(1)  |
+
+2. [Question 2 : Maximum product of two elements in an array](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/maximum-product-of-two-elements-in-an-array)<br/>
+
+ | Time Complexity  | Space Complexity |
+| ------------- | ------------- |
+| O(n)  | O(1)  |
+3. [Question 3: Course Schedule iii](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/course-schedule-iii)<br/>
+
+ | Time Complexity  | Space Complexity |
+| ------------- | ------------- |
+| O(nlogn) | O(n)  |
