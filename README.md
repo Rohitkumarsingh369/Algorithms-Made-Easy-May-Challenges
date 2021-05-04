@@ -4,7 +4,7 @@ Algorithms Made Easy May 10 day 30 problems Challenge
 <h1 align="center">Hi 👨‍🎓, I'm Rohit Kumar Singh</h1>
 
 <h3 align="center">All Leetcode Soluton</h3>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rohitkumarsingh369&label=Visit%20&color=0e75b6&style=flat" alt="rohitkumarsingh369" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rohitkumarsingh/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="https://www.linkedin.com/in/rohitkumarsingh/" height="40" width="40" /></a>
