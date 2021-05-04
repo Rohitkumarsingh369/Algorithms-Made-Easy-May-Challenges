@@ -67,3 +67,22 @@ Algorithms Made Easy May 10 day 30 problems Challenge
  | Time Complexity  | Space Complexity |
 | ------------- | ------------- |
 | O(nlogn) | O(n)  |
+
+<h3>Day 4: </h3>
+
+1. [Question 1 : Running sum of 1d array](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/running-sum-of-1d-array)<br/>
+
+ | Time Complexity  | Space Complexity |
+| ------------- | ------------- |
+| O(n)  | O(1)  |
+
+2. [Question 2 : Sort List](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/sort-list)<br/>
+
+ | Time Complexity  | Space Complexity |
+| ------------- | ------------- |
+| O(nlogn)  | O(logn)  |
+3. [Question 3: Sort an Array](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/sort-an-array)<br/>
+
+ | Time Complexity  | Space Complexity |
+| ------------- | ------------- |
+| O(nlogn) | O(n)  |
