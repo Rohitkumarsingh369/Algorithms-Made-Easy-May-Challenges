@@ -86,3 +86,22 @@ Algorithms Made Easy May 10 day 30 problems Challenge
  | Time Complexity  | Space Complexity |
 | ------------- | ------------- |
 | O(nlogn) | O(n)  |
+
+<h3>Day 5: </h3>
+
+1. [Question 1 : Se zero matrix](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/set-matrix-zeroes)<br/>
+
+ | Time Complexity  | Space Complexity |
+| ------------- | ------------- |
+| O(n * n)  | O(1)  |
+
+2. [Question 2 : Non decreasing array](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/non-decreasing-array)<br/>
+
+ | Time Complexity  | Space Complexity |
+| ------------- | ------------- |
+| O(n)  | O(1)  |
+3. [Question 3: Sudoku](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/sudoku-solver)<br/>
+
+ | Time Complexity  | Space Complexity |
+| ------------- | ------------- |
+| O(9^(n* n)) | O(n * n)  |
