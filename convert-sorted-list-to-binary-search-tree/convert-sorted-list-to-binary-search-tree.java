@@ -38,7 +38,7 @@ class Solution {
             temp = temp.next;
             count++;
         }
-        System.out.println(count);
+       
         return count;
     }
     public TreeNode sortedListToBSTUtil(int n){
