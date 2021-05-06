@@ -105,3 +105,22 @@ Algorithms Made Easy May 10 day 30 problems Challenge
  | Time Complexity  | Space Complexity |
 | ------------- | ------------- |
 | O(9^(n* n)) | O(n * n)  |
+
+<h3>Day 6: </h3>
+
+1. [Question 1 : Convert sorted list to binary searc tree](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/convert-sorted-list-to-binary-search-tree)<br/>
+
+ | Time Complexity  | Space Complexity |
+| ------------- | ------------- |
+| O(n )  | O(1)  |
+
+2. [Question 2 : Jump game ii](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/jump-game-ii)<br/>
+
+ | Time Complexity  | Space Complexity |
+| ------------- | ------------- |
+| O(n)  | O(1)  |
+3. [Question 3: Longest word in dictionary](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/longest-word-in-dictionary)<br/>
+
+ | Time Complexity  | Space Complexity |
+| ------------- | ------------- |
+| O(n logn) | O(n)  |
