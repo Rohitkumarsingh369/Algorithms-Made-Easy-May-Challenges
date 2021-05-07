@@ -124,3 +124,20 @@ Algorithms Made Easy May 10 day 30 problems Challenge
  | Time Complexity  | Space Complexity |
 | ------------- | ------------- |
 | O(n logn) | O(n)  |
+
+<h3>Day 7: </h3>
+
+1. [Question 1 : Delete Node in a BST](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/delete-node-in-a-bst)<br/>
+
+ | Time Complexity  | Space Complexity |
+| ------------- | ------------- |
+| O(height )  | O(1)  |
+
+2. [Question 2 : Subsets](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/subsets)<br/>
+
+ 
+3. [Question 3: Delete operation for two strings](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/delete-operation-for-two-strings)<br/>
+
+ | Time Complexity  | Space Complexity |
+| ------------- | ------------- |
+| O(n) | O(n)  |
