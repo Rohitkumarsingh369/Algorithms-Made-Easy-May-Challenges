@@ -140,4 +140,24 @@ Algorithms Made Easy May 10 day 30 problems Challenge
 
  | Time Complexity  | Space Complexity |
 | ------------- | ------------- |
-| O(n) | O(n)  |
+| O(mn) | O(mn)  |
+
+<h3>Day 8: </h3>
+
+1. [Question 1 : Rotate Image](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/rotate-image)<br/>
+
+ | Time Complexity  | Space Complexity |
+| ------------- | ------------- |
+| O(n * n )  | O(1)  |
+
+2. [Question 2 : Rotate Array](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/rotate-array)<br/>
+
+ | Time Complexity  | Space Complexity |
+| ------------- | ------------- |
+| O(n)  | O(1)  |
+
+3. [Question 3: Reverse Nodes in K group](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/reverse-nodes-in-k-group)<br/>
+
+ | Time Complexity  | Space Complexity |
+| ------------- | ------------- |
+| O(n) | O(n/k)  |
