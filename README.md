@@ -161,3 +161,20 @@ Algorithms Made Easy May 10 day 30 problems Challenge
  | Time Complexity  | Space Complexity |
 | ------------- | ------------- |
 | O(n) | O(n/k)  |
+
+<h3>Day 9: </h3>
+
+1. [Question 1 : Reverse Integer](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/reverse-integer)<br/>
+
+ | Time Complexity  | Space Complexity |
+| ------------- | ------------- |
+| O(n)  | O(1)  |
+
+2. [Question 2 : Super Palindrome](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/super-palindromes)<br/>
+
+
+3. [Question 3: 3 Sum](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/3sum)<br/>
+
+ | Time Complexity  | Space Complexity |
+| ------------- | ------------- |
+| O(nlogn) | O(n * n)  |
