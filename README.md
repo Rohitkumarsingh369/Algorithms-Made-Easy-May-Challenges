@@ -178,3 +178,23 @@ Algorithms Made Easy May 10 day 30 problems Challenge
  | Time Complexity  | Space Complexity |
 | ------------- | ------------- |
 | O(nlogn) | O(n * n)  |
+
+<h3>Day 10: </h3>
+
+1. [Question 1 : Single Number](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/single-number)<br/>
+
+ | Time Complexity  | Space Complexity |
+| ------------- | ------------- |
+| O(n)  | O(1)  |
+
+2. [Question 2 : Single Number ii](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/single-number-ii)<br/>
+
+| Time Complexity  | Space Complexity |
+| ------------- | ------------- |
+| O(n)  | O(1)  |
+
+3. [Question 3: Trapping Rain Water](https://github.com/Rohitkumarsingh369/Algorithms-Made-Easy-May-Challenges/tree/main/trapping-rain-water)<br/>
+
+ | Time Complexity  | Space Complexity |
+| ------------- | ------------- |
+| O(n) | O(1)  |
